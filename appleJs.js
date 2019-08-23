@@ -17,4 +17,4 @@ title.textContent = "Мы продаем только подлинную тех�
 adv.remove();
 
 let questionApple = prompt("Ваше отношение к технике Apple?", "");
-promptApple.textContent = questionApple;
+promptApple.textContent = questionApple; // 5 //
